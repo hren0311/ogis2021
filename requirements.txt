@@ -1,0 +1,8 @@
+#pip install -r requirements.txtでインストール
+
+numpy
+opencv-python
+math
+pillow
+time
+glob
